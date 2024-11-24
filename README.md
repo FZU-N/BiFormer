@@ -4,7 +4,7 @@ BiFormer: Bilateral Interaction for Local-Global Collaborative Perception in Low
 
 Published in: *IEEE Transactions on Multimedia (TMM), 2024*
 
-[paper ](10.1109/TMM.2024.3413293)| [datasets](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) | [results](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh)
+[paper](10.1109/TMM.2024.3413293)| [datasets](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) | [results](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh)
 
 ## Abstract
 
@@ -18,15 +18,9 @@ Low-light image enhancement is a challenging task due to the limited visibility 
 
 The enhanced results for the datasets mentioned in our paper can be downloaded through [Baidu Netdisk](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) (code: ssfh) or  [Google Drive](https://drive.google.com/drive/folders/1g_LD_NHYz37jvM4T-RicTAQOeNMuFyP5?usp=sharing)
 
-
-
 ![](README_md_files/cc9da200-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
-
-
 ![](README_md_files/c11ab3f0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
-
-
 
 ![](README_md_files/c52cb9c0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
