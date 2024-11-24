@@ -22,15 +22,13 @@ The enhanced results for the datasets mentioned in our paper can be downloaded t
 
 ![](README_md_files/cc9da200-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
-![](Markdown_md_files/3c557950-aa68-11ef-bb2f-c988c75e935b.jpeg?v=1\&type=image)
+
 
 ![](README_md_files/c11ab3f0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
 
 
 ![](README_md_files/c52cb9c0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
-
-
 
 ## Citation
 
