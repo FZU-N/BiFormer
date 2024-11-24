@@ -4,8 +4,6 @@ BiFormer: Bilateral Interaction for Local-Global Collaborative Perception in Low
 
 Published in: *IEEE Transactions on Multimedia (TMM), 2024*
 
-
-
 [paper ](10.1109/TMM.2024.3413293)| [datasets](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) | [results](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh)
 
 ## Abstract
@@ -14,9 +12,7 @@ Low-light image enhancement is a challenging task due to the limited visibility 
 
 ## Overview
 
-![](Markdown_md_files/6d3a5420-aa66-11ef-bb2f-c988c75e935b.jpeg?v=1\&type=image)
-
-
+## ![](README_md_files/d1df7540-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
 ## Main Results
 
@@ -24,15 +20,15 @@ The enhanced results for the datasets mentioned in our paper can be downloaded t
 
 
 
+![](README_md_files/cc9da200-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
+
 ![](Markdown_md_files/3c557950-aa68-11ef-bb2f-c988c75e935b.jpeg?v=1\&type=image)
 
+![](README_md_files/c11ab3f0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
 
-![](Markdown_md_files/d2595d00-aa67-11ef-bb2f-c988c75e935b.jpeg?v=1\&type=image)
 
-&#x20;&#x20;
-
-![](Markdown_md_files/256ee500-aa68-11ef-bb2f-c988c75e935b.jpeg?v=1\&type=image)
+![](README_md_files/c52cb9c0-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
 
 
@@ -50,10 +46,4 @@ If you find this work useful for your research, please cite:
       pages={10792-10804},
       keywords={Convolutional neural networks;Transformers;Image enhancement;Task analysis;Collaboration;Visualization;Lighting;Low-light image enhancement;hybrid CNN-Transformer;bilateral interaction;mixed-channel fusion},
       doi={10.1109/TMM.2024.3413293}}
-
-
-
-
-
-
 
