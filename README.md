@@ -16,7 +16,7 @@ Low-light image enhancement is a challenging task due to the limited visibility 
 
 ## Main Results
 
-All metrics in our method are computed in the sRGB space, and no GT Mean-related techniques are applied. The enhanced results for the datasets mentioned in our paper can be downloaded through [Baidu Netdisk](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) (code: ssfh) or  [Google Drive](https://drive.google.com/drive/folders/1g_LD_NHYz37jvM4T-RicTAQOeNMuFyP5?usp=sharing). Results are measured using `measure_pair.py` and `measure_nonpair.py`, respectively.
+The enhanced results for the datasets mentioned in our paper can be downloaded through [Baidu Netdisk](https://pan.baidu.com/s/12g91-HIxCdq36DV-Pt8wvQ?pwd=ssfh) (code: ssfh) or  [Google Drive](https://drive.google.com/drive/folders/1g_LD_NHYz37jvM4T-RicTAQOeNMuFyP5?usp=sharing). Results are measured using `measure_pair.py` and `measure_nonpair.py`, respectively. It should be noted that all metrics in our method are computed in the sRGB space, and no GT Mean-related techniques are applied. 
 
 ![](README_md_files/cc9da200-aa6b-11ef-90fb-6d0a30377dbd.jpeg?v=1\&type=image)
 
